@@ -1,0 +1,1 @@
+{"uuid":"793bb0d1-7fce-477c-bfc5-f1e4d367f666","name":"Default Suite","children":["2e955422-d71c-433c-8909-e60f53dc4dc7"],"befores":[{"name":"resetMovies","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1614284798258,"stop":1614284798506}],"afters":[],"links":[],"start":1614284798223,"stop":1614284831160}

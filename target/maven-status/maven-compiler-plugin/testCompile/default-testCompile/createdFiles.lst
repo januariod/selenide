@@ -1,0 +1,9 @@
+models/MovieModel.class
+pages/MoviePage.class
+tests/MovieTests.class
+libs/DataBase.class
+common/BaseTest.class
+pages/views/SideBar.class
+pages/LoginPage.class
+tests/LoginTests.class
+tests/HelloSelenideTest.class
